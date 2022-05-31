@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himal775
-- 👀 I’m interested in Machine learning using python
+- 👀 I’m interested in Flutter
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
